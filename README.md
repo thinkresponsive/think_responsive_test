@@ -1,4 +1,4 @@
-think_responsive_test
+think responsive test
 =====================
 
-Just a simple test of how git works
+investigating github
